@@ -36,7 +36,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-# C Code Project lecture
+# C Code Project Class 2017.11.7  
+
+lecturer : Peter (cell : 0979050902 ; e-mail : rd02nvc2@gmail.com)
 
 第一章:輸出入及宣告
 
